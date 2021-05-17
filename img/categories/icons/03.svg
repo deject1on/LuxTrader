@@ -1,0 +1,34 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 74" width="75" height="74">
+	<title>categories</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="37.5" y1="73.148" x2="37.5" y2="0">
+			<stop offset="0" stop-color="#9e7a47"  />
+			<stop offset="0.498" stop-color="#c8ae80"  />
+			<stop offset="0.502" stop-color="#efdcba"  />
+			<stop offset="1" stop-color="#c8ae80"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="37" y1="52.001" x2="37" y2="21">
+			<stop offset="0" stop-color="#8b602a"  />
+			<stop offset="0.5" stop-color="#c2a572"  />
+			<stop offset="0.502" stop-color="#ceb589"  />
+			<stop offset="1" stop-color="#c2a572"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1c242a;stroke: url(#grd1);stroke-width: 3 } 
+		.shp1 { fill: url(#grd2) } 
+	</style>
+	<g id="categories">
+		<g id="round">
+			<g id="icons">
+				<g id="ROW1">
+					<g id="icon2">
+						<path id="Ellipse 20" class="shp0" d="M37.5 0C58.21 0 75 16.38 75 36.57C75 56.77 58.21 73.15 37.5 73.15C16.79 73.15 0 56.77 0 36.57C0 16.38 16.79 0 37.5 0Z" />
+						<path id="Shape 36" class="shp1" d="M55 36.03C55 34.79 53.97 33.79 52.7 33.79L51.63 33.79L48.63 24.51L48.6 24.43C48.14 23.38 47.36 22.58 46.46 21.99C45.54 21.4 44.49 21.01 43.31 21L30.34 21C29.17 21.01 28.11 21.4 27.2 21.99C26.29 22.58 25.51 23.38 25.05 24.43L25.02 24.51L22.02 33.79L21.3 33.79C20.03 33.79 19 34.79 19 36.03L19 46.07L21.18 46.07L21.18 48.95C21.18 50.64 22.58 52 24.31 52C26.04 52 27.44 50.64 27.44 48.95L27.44 46.07L46.45 46.07L46.45 48.95C46.45 50.63 47.85 52 49.58 52C51.31 52 52.71 50.63 52.71 48.95L52.71 46.07L55 46.07L55 36.03ZM49.58 37.1C51.01 37.1 52.18 38.23 52.18 39.63C52.18 41.03 51.01 42.16 49.58 42.16C48.14 42.16 46.98 41.03 46.98 39.63C46.98 38.23 48.14 37.1 49.58 37.1ZM28.36 25.71C28.48 25.46 28.79 25.11 29.17 24.87C29.58 24.59 30.07 24.46 30.34 24.46L43.31 24.46C43.59 24.46 44.07 24.59 44.48 24.87C44.87 25.11 45.17 25.46 45.29 25.71L47.9 33.79L25.75 33.79L28.36 25.71ZM24.31 42.16C22.88 42.16 21.71 41.03 21.71 39.63C21.71 38.23 22.88 37.1 24.31 37.1C25.75 37.1 26.91 38.23 26.91 39.63C26.91 41.03 25.75 42.16 24.31 42.16Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

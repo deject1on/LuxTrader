@@ -1,0 +1,34 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 74" width="75" height="74">
+	<title>categories</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="37.5" y1="73.149" x2="37.5" y2="0">
+			<stop offset="0" stop-color="#9e7a47"  />
+			<stop offset="0.498" stop-color="#c8ae80"  />
+			<stop offset="0.502" stop-color="#efdcba"  />
+			<stop offset="1" stop-color="#c8ae80"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="37" y1="51" x2="37" y2="22">
+			<stop offset="0" stop-color="#8b602a"  />
+			<stop offset="0.5" stop-color="#c2a572"  />
+			<stop offset="0.502" stop-color="#ceb589"  />
+			<stop offset="1" stop-color="#c2a572"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1c242a;stroke: url(#grd1);stroke-width: 3 } 
+		.shp1 { fill: url(#grd2) } 
+	</style>
+	<g id="categories">
+		<g id="round">
+			<g id="icons">
+				<g id="ROW3">
+					<g id="icon2">
+						<path id="Ellipse 20" class="shp0" d="M37.5 0C58.21 0 75 16.38 75 36.57C75 56.77 58.21 73.15 37.5 73.15C16.79 73.15 0 56.77 0 36.57C0 16.38 16.79 0 37.5 0Z" />
+						<path id="Shape 41" class="shp1" d="M38.06 47.53L38.06 37.79C42.52 37.24 46 33.31 46 28.56C46 27.24 45.7 24.58 44.91 23.07L44.34 22L29.66 22L29.09 23.07C28.3 24.58 28 27.24 28 28.56C28 33.36 31.54 37.33 36.07 37.81L36.07 47.53C32.43 47.64 29.62 48.37 29.62 49.26C29.62 50.22 32.96 51 37.07 51C41.18 51 44.51 50.22 44.51 49.26C44.51 48.37 41.7 47.64 38.06 47.53Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

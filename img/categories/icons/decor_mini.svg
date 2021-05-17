@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 22" width="100" height="22">
+	<title>categories</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #bb9c66 } 
+	</style>
+	<g id="categories">
+		<g id="round">
+			<path id="Rectangle 25" class="shp0" d="M50 0.01L60.99 11L50 21.99L39.01 11L50 0.01ZM0 11L0 10L25 10L25 11L0 11ZM75 11L75 10L100 10L100 11L75 11Z" />
+		</g>
+	</g>
+</svg>
